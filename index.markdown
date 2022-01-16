@@ -4,3 +4,10 @@
 
 layout: home
 ---
+Esta es la página de inicio
+
+```java
+// Ejemplo de código en Java
+ClaseA claseA= new ClaseA();
+claseA->someMethod();
+```
