@@ -1,7 +1,7 @@
 ---
 layout: default
 title: sub menú 2
-parent: Menú 1
+parent: Ejemplo Sub Menú
 nav_order: 1
 ---
 Contenido del Submenú 2 en Menú 1

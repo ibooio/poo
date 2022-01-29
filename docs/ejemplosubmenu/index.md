@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Menú 1
+title: Ejemplo Sub Menú
 has_children: true
 ---
